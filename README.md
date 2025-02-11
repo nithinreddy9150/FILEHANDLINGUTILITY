@@ -1,8 +1,5 @@
-# FILEHANDLINGUTILITY
-# Task 1: File Handling (Read, Write, Modify)
-
 ## 1. Introduction
-This task involves creating a Java program to handle file operations such as reading, writing, and modifying text files.
+This Java program demonstrates file handling operations, including reading, writing, and modifying text files. It is useful for applications that need persistent storage of textual data.
 
 ## 2. Requirements
 - Java Development Kit (JDK) 8 or later
@@ -18,7 +15,7 @@ This program performs the following operations:
 ```java
 import java.io.*;
 
-public class FileHandling {
+public class filehandlingutility {
     public static void main(String[] args) {
         String filename = "example.txt";
 
@@ -53,19 +50,15 @@ public class FileHandling {
     }
 }
 5. How to Run the Program
+Save the file as filehandlingutility.java.
 Open a terminal or command prompt.
 Navigate to the directory where the Java file is saved.
 Compile the program using:
-nginx
 
-javac FileHandling.java
+javac filehandlingutility.java
 Run the program using:
-nginx
-
-java FileHandling
+java filehandlingutility
 6. Sample Output
-arduino
-
 File written successfully.
 
 Reading from file:
@@ -74,5 +67,4 @@ This is a second line.
 
 File modified successfully.
 7. Conclusion
-This program demonstrates Java's file handling operations, helping users understand file input and output management.
-
+This program effectively demonstrates Java's file handling capabilities, including writing, reading, and modifying files. It is a fundamental operation for applications requiring data persistence
