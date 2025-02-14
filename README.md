@@ -1,3 +1,15 @@
+*COMPANY NAME:- CODTECH IT SOLUTIONS
+
+NAME:- GUDDETI NITHIN REDDY
+
+INTERN ID:- CT08QFW
+
+DOMAIN:-JAVA PROGRAMMING
+
+DURATION:-4 WEEKS
+
+MENTOR:- NEELA SANTOSH*
+
 ## 1. Introduction
 This Java program demonstrates file handling operations, including reading, writing, and modifying text files. It is useful for applications that need persistent storage of textual data.
 
